@@ -1,0 +1,247 @@
+,Calendar_Year,Calendar_Month,Mode,Average_Daily_Ridership,city
+0,2019,1,Bus,459160,Philadelphia
+2,2019,1,Heavy Rail,296709,Philadelphia
+3,2019,1,Regional Rail,122856,Philadelphia
+6,2019,2,Bus,464674,Philadelphia
+8,2019,2,Heavy Rail,315858,Philadelphia
+9,2019,2,Regional Rail,121161,Philadelphia
+12,2019,3,Bus,478487,Philadelphia
+14,2019,3,Heavy Rail,308777,Philadelphia
+15,2019,3,Regional Rail,118228,Philadelphia
+18,2019,4,Bus,473732,Philadelphia
+20,2019,4,Heavy Rail,305491,Philadelphia
+21,2019,4,Regional Rail,124045,Philadelphia
+24,2019,5,Bus,480074,Philadelphia
+26,2019,5,Heavy Rail,303776,Philadelphia
+27,2019,5,Regional Rail,119187,Philadelphia
+30,2019,6,Bus,396720,Philadelphia
+32,2019,6,Heavy Rail,273813,Philadelphia
+33,2019,6,Regional Rail,113745,Philadelphia
+36,2019,7,Bus,401911,Philadelphia
+38,2019,7,Heavy Rail,263492,Philadelphia
+39,2019,7,Regional Rail,115144,Philadelphia
+42,2019,8,Bus,406865,Philadelphia
+44,2019,8,Heavy Rail,268150,Philadelphia
+45,2019,8,Regional Rail,114436,Philadelphia
+48,2019,9,Bus,501557,Philadelphia
+50,2019,9,Heavy Rail,321907,Philadelphia
+51,2019,9,Regional Rail,138481,Philadelphia
+54,2019,10,Bus,502857,Philadelphia
+56,2019,10,Heavy Rail,326562,Philadelphia
+57,2019,10,Regional Rail,133614,Philadelphia
+60,2019,11,Bus,490316,Philadelphia
+62,2019,11,Heavy Rail,322462,Philadelphia
+63,2019,11,Regional Rail,130761,Philadelphia
+66,2019,12,Bus,437027,Philadelphia
+68,2019,12,Heavy Rail,312677,Philadelphia
+69,2019,12,Regional Rail,128363,Philadelphia
+72,2020,1,Bus,493261,Philadelphia
+74,2020,1,Heavy Rail,311442,Philadelphia
+75,2020,1,Regional Rail,129953,Philadelphia
+78,2020,2,Bus,503967,Philadelphia
+80,2020,2,Heavy Rail,309414,Philadelphia
+81,2020,2,Regional Rail,125397,Philadelphia
+84,2020,3,Bus,414021,Philadelphia
+86,2020,3,Heavy Rail,191819,Philadelphia
+87,2020,3,Regional Rail,60912,Philadelphia
+90,2020,4,Bus,141411,Philadelphia
+92,2020,4,Heavy Rail,44353,Philadelphia
+93,2020,4,Regional Rail,5168,Philadelphia
+96,2020,5,Bus,165838,Philadelphia
+98,2020,5,Heavy Rail,52913,Philadelphia
+99,2020,5,Regional Rail,2016,Philadelphia
+102,2020,6,Bus,192334,Philadelphia
+104,2020,6,Heavy Rail,66216,Philadelphia
+105,2020,6,Regional Rail,8516,Philadelphia
+108,2020,7,Bus,203766,Philadelphia
+110,2020,7,Heavy Rail,86270,Philadelphia
+111,2020,7,Regional Rail,17381,Philadelphia
+114,2020,8,Bus,189252,Philadelphia
+116,2020,8,Heavy Rail,87788,Philadelphia
+117,2020,8,Regional Rail,18288,Philadelphia
+120,2020,9,Bus,205693,Philadelphia
+122,2020,9,Heavy Rail,96188,Philadelphia
+123,2020,9,Regional Rail,23479,Philadelphia
+126,2020,10,Bus,207445,Philadelphia
+128,2020,10,Heavy Rail,97333,Philadelphia
+129,2020,10,Regional Rail,22844,Philadelphia
+132,2020,11,Bus,193063,Philadelphia
+134,2020,11,Heavy Rail,88690,Philadelphia
+135,2020,11,Regional Rail,23836,Philadelphia
+138,2020,12,Bus,200729,Philadelphia
+140,2020,12,Heavy Rail,92190,Philadelphia
+141,2020,12,Regional Rail,23381,Philadelphia
+144,2021,1,Bus,184766,Philadelphia
+146,2021,1,Heavy Rail,88543,Philadelphia
+147,2021,1,Regional Rail,24283,Philadelphia
+150,2021,2,Bus,184944,Philadelphia
+152,2021,2,Heavy Rail,84876,Philadelphia
+153,2021,2,Regional Rail,15466,Philadelphia
+156,2021,3,Bus,208266,Philadelphia
+158,2021,3,Heavy Rail,94351,Philadelphia
+159,2021,3,Regional Rail,21225,Philadelphia
+162,2021,4,Bus,209824,Philadelphia
+164,2021,4,Heavy Rail,104843,Philadelphia
+165,2021,4,Regional Rail,21312,Philadelphia
+168,2021,5,Bus,216243,Philadelphia
+170,2021,5,Heavy Rail,109747,Philadelphia
+171,2021,5,Regional Rail,25380,Philadelphia
+174,2021,6,Bus,222345,Philadelphia
+176,2021,6,Heavy Rail,112267,Philadelphia
+177,2021,6,Regional Rail,28832,Philadelphia
+180,2021,7,Bus,232352,Philadelphia
+182,2021,7,Heavy Rail,115614,Philadelphia
+183,2021,7,Regional Rail,32582,Philadelphia
+186,2021,8,Bus,238176,Philadelphia
+188,2021,8,Heavy Rail,115936,Philadelphia
+189,2021,8,Regional Rail,33513,Philadelphia
+192,2021,9,Bus,291653,Philadelphia
+194,2021,9,Heavy Rail,151160,Philadelphia
+195,2021,9,Regional Rail,42560,Philadelphia
+198,2021,10,Bus,302979,Philadelphia
+200,2021,10,Heavy Rail,157350,Philadelphia
+201,2021,10,Regional Rail,53831,Philadelphia
+204,2021,11,Bus,293035,Philadelphia
+206,2021,11,Heavy Rail,150727,Philadelphia
+207,2021,11,Regional Rail,52291,Philadelphia
+210,2021,12,Bus,272915,Philadelphia
+212,2021,12,Heavy Rail,142023,Philadelphia
+213,2021,12,Regional Rail,47061,Philadelphia
+216,2022,1,Bus,243951,Philadelphia
+218,2022,1,Heavy Rail,115382,Philadelphia
+219,2022,1,Regional Rail,32407,Philadelphia
+222,2022,2,Bus,292800,Philadelphia
+224,2022,2,Heavy Rail,142654,Philadelphia
+225,2022,2,Regional Rail,48846,Philadelphia
+228,2022,3,Bus,303607,Philadelphia
+230,2022,3,Heavy Rail,145909,Philadelphia
+231,2022,3,Regional Rail,54994,Philadelphia
+234,2022,4,Bus,297311,Philadelphia
+236,2022,4,Heavy Rail,143797,Philadelphia
+237,2022,4,Regional Rail,54044,Philadelphia
+240,2022,5,Bus,313650,Philadelphia
+242,2022,5,Heavy Rail,140826,Philadelphia
+243,2022,5,Regional Rail,51962,Philadelphia
+246,2022,6,Bus,262689,Philadelphia
+248,2022,6,Heavy Rail,130480,Philadelphia
+249,2022,6,Regional Rail,55791,Philadelphia
+252,2022,7,Bus,272936,Philadelphia
+254,2022,7,Heavy Rail,120182,Philadelphia
+255,2022,7,Regional Rail,51583,Philadelphia
+258,2022,8,Bus,272216,Philadelphia
+260,2022,8,Heavy Rail,128345,Philadelphia
+261,2022,8,Regional Rail,53394,Philadelphia
+264,2022,9,Bus,341880,Philadelphia
+266,2022,9,Heavy Rail,147378,Philadelphia
+267,2022,9,Regional Rail,62122,Philadelphia
+270,2022,10,Bus,340544,Philadelphia
+272,2022,10,Heavy Rail,156381,Philadelphia
+273,2022,10,Regional Rail,63954,Philadelphia
+276,2022,11,Bus,338481,Philadelphia
+278,2022,11,Heavy Rail,145873,Philadelphia
+279,2022,11,Regional Rail,64215,Philadelphia
+282,2022,12,Bus,299614,Philadelphia
+284,2022,12,Heavy Rail,136539,Philadelphia
+285,2022,12,Regional Rail,60226,Philadelphia
+288,2023,1,Bus,319605,Philadelphia
+290,2023,1,Heavy Rail,142909,Philadelphia
+291,2023,1,Regional Rail,62311,Philadelphia
+294,2023,2,Bus,342049,Philadelphia
+296,2023,2,Heavy Rail,144909,Philadelphia
+297,2023,2,Regional Rail,64720,Philadelphia
+300,2023,3,Bus,341407,Philadelphia
+302,2023,3,Heavy Rail,137699,Philadelphia
+303,2023,3,Regional Rail,66514,Philadelphia
+306,2023,4,Bus,336495,Philadelphia
+308,2023,4,Heavy Rail,138287,Philadelphia
+309,2023,4,Regional Rail,66900,Philadelphia
+312,2023,5,Bus,359462,Philadelphia
+314,2023,5,Heavy Rail,143856,Philadelphia
+315,2023,5,Regional Rail,65979,Philadelphia
+318,2023,6,Bus,302745,Philadelphia
+320,2023,6,Heavy Rail,134429,Philadelphia
+321,2023,6,Regional Rail,66067,Philadelphia
+324,2023,7,Bus,297469,Philadelphia
+326,2023,7,Heavy Rail,129900,Philadelphia
+327,2023,7,Regional Rail,61204,Philadelphia
+330,2023,8,Bus,307127,Philadelphia
+332,2023,8,Heavy Rail,141078,Philadelphia
+333,2023,8,Regional Rail,60123,Philadelphia
+336,2023,9,Bus,367249,Philadelphia
+338,2023,9,Heavy Rail,181826,Philadelphia
+339,2023,9,Regional Rail,70733,Philadelphia
+342,2023,10,Bus,378441,Philadelphia
+344,2023,10,Heavy Rail,192092,Philadelphia
+345,2023,10,Regional Rail,74307,Philadelphia
+348,2023,11,Bus,368386,Philadelphia
+350,2023,11,Heavy Rail,182370,Philadelphia
+351,2023,11,Regional Rail,76946,Philadelphia
+354,2023,12,Bus,347255,Philadelphia
+356,2023,12,Heavy Rail,171378,Philadelphia
+357,2023,12,Regional Rail,72460,Philadelphia
+360,2024,1,Bus,343510,Philadelphia
+362,2024,1,Heavy Rail,169013,Philadelphia
+363,2024,1,Regional Rail,69804,Philadelphia
+366,2024,2,Bus,374784,Philadelphia
+368,2024,2,Regional Rail,77066,Philadelphia
+369,2024,2,Heavy Rail,180105,Philadelphia
+372,2024,3,Bus,344983,Philadelphia
+374,2024,3,Regional Rail,78463,Philadelphia
+375,2024,3,Heavy Rail,172117,Philadelphia
+378,2024,4,Bus,362983,Philadelphia
+380,2024,4,Regional Rail,79247,Philadelphia
+381,2024,4,Heavy Rail,195409,Philadelphia
+384,2024,5,Bus,381468,Philadelphia
+386,2024,5,Regional Rail,79261,Philadelphia
+387,2024,5,Heavy Rail,190688,Philadelphia
+390,2024,6,Bus,341764,Philadelphia
+392,2024,6,Regional Rail,75509,Philadelphia
+393,2024,6,Heavy Rail,186343,Philadelphia
+396,2024,7,Bus,322859,Philadelphia
+398,2024,7,Regional Rail,74700,Philadelphia
+399,2024,7,Heavy Rail,187200,Philadelphia
+402,2024,8,Bus,334527,Philadelphia
+404,2024,8,Regional Rail,74066,Philadelphia
+405,2024,8,Heavy Rail,205179,Philadelphia
+408,2024,9,Bus,401877,Philadelphia
+410,2024,9,Regional Rail,84360,Philadelphia
+411,2024,9,Heavy Rail,230261,Philadelphia
+414,2024,10,Bus,405318,Philadelphia
+416,2024,10,Regional Rail,87030,Philadelphia
+417,2024,10,Heavy Rail,230653,Philadelphia
+420,2024,11,Bus,382848,Philadelphia
+422,2024,11,Regional Rail,86498,Philadelphia
+423,2024,11,Heavy Rail,222197,Philadelphia
+426,2024,12,Bus,350305,Philadelphia
+428,2024,12,Regional Rail,80600,Philadelphia
+429,2024,12,Heavy Rail,204500,Philadelphia
+432,2025,1,Bus,354820,Philadelphia
+434,2025,1,Regional Rail,76737,Philadelphia
+435,2025,1,Heavy Rail,205867,Philadelphia
+438,2025,2,Bus,375744,Philadelphia
+440,2025,2,Regional Rail,88400,Philadelphia
+441,2025,2,Heavy Rail,217100,Philadelphia
+444,2025,3,Bus,382227,Philadelphia
+446,2025,3,Regional Rail,84800,Philadelphia
+447,2025,3,Heavy Rail,204400,Philadelphia
+450,2025,4,Bus,377072,Philadelphia
+452,2025,4,Regional Rail,84300,Philadelphia
+453,2025,4,Heavy Rail,214900,Philadelphia
+456,2025,5,Bus,387744,Philadelphia
+458,2025,5,Regional Rail,84666,Philadelphia
+459,2025,5,Heavy Rail,220334,Philadelphia
+462,2025,6,Bus,345285,Philadelphia
+464,2025,6,Regional Rail,80214,Philadelphia
+465,2025,6,Heavy Rail,215302,Philadelphia
+468,2025,7,Bus,334079,Philadelphia
+470,2025,7,Regional Rail,81331,Philadelphia
+471,2025,7,Heavy Rail,199095,Philadelphia
+474,2025,8,Bus,331653,Philadelphia
+476,2025,8,Regional Rail,75494,Philadelphia
+477,2025,8,Heavy Rail,197618,Philadelphia
+480,2025,9,Bus,377001,Philadelphia
+482,2025,9,Regional Rail,90523,Philadelphia
+483,2025,9,Heavy Rail,223428,Philadelphia
+486,2025,10,Bus,392615,Philadelphia
+488,2025,10,Regional Rail,80635,Philadelphia
+489,2025,10,Heavy Rail,228969,Philadelphia
