@@ -1,6 +1,6 @@
 # 🚇 Ridership Analytics — Chicago vs Philadelphia
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes and compares public transportation ridership in **Chicago (CTA)** and **Philadelphia (SEPTA)** using historical mobility data.
 
@@ -13,7 +13,7 @@ The study focuses on two complementary levels of analysis:
 
 ---
 
-## 🎯 Main Objectives
+##  Main Objectives
 
 * Clean and harmonize heterogeneous transit datasets
 * Build a dimensional **star schema model**
@@ -23,7 +23,7 @@ The study focuses on two complementary levels of analysis:
 
 ---
 
-## 📊 Key KPIs
+##  Key KPIs
 
 The dashboard includes several performance indicators:
 
@@ -35,7 +35,7 @@ The dashboard includes several performance indicators:
 
 ---
 
-## 🧠 Analytical Approach
+##  Analytical Approach
 
 The project combines:
 
@@ -46,7 +46,7 @@ The project combines:
 
 ---
 
-## 🗂 Repository Structure
+##  Repository Structure
 
 ```
 ├── Chicago-Philadelphie/
@@ -67,7 +67,7 @@ The project combines:
 
 ---
 
-## ⚙️ Data Processing Workflow
+##  Data Processing Workflow
 
 1. Raw datasets collected from CTA and SEPTA sources
 2. Cleaning and harmonization using Python (Pandas)
@@ -80,7 +80,7 @@ The project combines:
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard is organized into **two analytical pages**:
 
@@ -100,7 +100,7 @@ The dashboard is organized into **two analytical pages**:
 
 ---
 
-## 🧪 Statistical Analysis (Python)
+##  Statistical Analysis (Python)
 
 Performed using Jupyter notebooks:
 
@@ -119,7 +119,7 @@ Libraries used:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **Python** — Data preparation & statistics
 * **Pandas / NumPy / SciPy**
@@ -129,7 +129,7 @@ Libraries used:
 
 ---
 
-## 📊 Expected Insights
+##  Expected Insights
 
 This project helps to:
 
@@ -141,7 +141,7 @@ This project helps to:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Leila Mourid**
 
